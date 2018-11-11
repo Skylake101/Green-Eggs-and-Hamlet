@@ -31,16 +31,3 @@ The and 'it' was used most frequently. The output I got from entering 5 words wa
 3.2356, We
 4.9355, should
 5.3528, know
-
-| Count | Word |
-|-------|------|
-| 988   | the  |
-| 693   | and  |
-| 621   | of   |
-| 604   | to   |
-| 513   | I    |
-| 450   | a    |
-| 441   | my   |
-| 387   | in   |
-| 378   |HAMLET|
-| 356   | you  |
