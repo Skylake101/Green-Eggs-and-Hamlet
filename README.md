@@ -1,9 +1,9 @@
 # SparkPro5
 
 ## About Me & Objective
-I'm Luke Carlson and I'm a Junior at Northwest Missouri, this is Spark Project 5. I am learning how to use Spark and Scala. I am using spark to grab certain words from a text from a text document called Green Eggs and Hamlet.
+I'm Luke Carlson, I am a Junior from Northwest Missouri. This assignment is helping us learn how to use Spark and Scala. I also like to spend a lot of time with my fridge door open, looking inside of my fridge without actually getting anything.
 
-## Documents pulled
+## My raw data with a link to original source
 I made my green eggs and Hamlet document using Hamlet.:
 - [HAMLET](http://shakespeare.mit.edu/hamlet/full.html "Website for Hamlet")
 
@@ -31,3 +31,15 @@ The and 'it' was used most frequently. The output I got from entering 5 words wa
 3.2356, We
 4.9355, should
 5.3528, know
+
+async function startProgram() {
+  setMainLed({ r: 0, g: 103, b: 71 });
+  await speak("Hello Bearcat - I can make a square", true);
+  await delay(1);
+  for (var _i1 = 0; _i1 < 4; _i1++) {
+    setMainLed(getRandomColor());
+    await Sound.Game.Coin.play(true);
+    await roll((getHeading() + 90), 60, 1);
+    await delay(1);
+  }
+}
