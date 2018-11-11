@@ -31,15 +31,3 @@ The and 'it' was used most frequently. The output I got from entering 5 words wa
 3.2356, We
 4.9355, should
 5.3528, know
-
-async function startProgram() {
-  setMainLed({ r: 0, g: 103, b: 71 });
-  await speak("Hello Bearcat - I can make a square", true);
-  await delay(1);
-  for (var _i1 = 0; _i1 < 4; _i1++) {
-    setMainLed(getRandomColor());
-    await Sound.Game.Coin.play(true);
-    await roll((getHeading() + 90), 60, 1);
-    await delay(1);
-  }
-}
