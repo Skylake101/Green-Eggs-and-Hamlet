@@ -26,8 +26,12 @@ scala> topWordCount.take(10).foreach(x=>println(x))
 ## Project Output
 The output I got from entering 5 words was:
 
+the	986
+and	685
+of	621
+to	604
+I	513
 
-
-'The' and 'it' was used most frequently.
+'The' was used 986 times making it the most frequent.
 
 ![chart](URL)
