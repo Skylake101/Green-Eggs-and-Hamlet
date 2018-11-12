@@ -25,6 +25,7 @@ scala> topWordCount.take(10).foreach(x=>println(x))
 
 ## Project Output
 The output I got from entering 5 words was:
+
 | Count | Word |
 |-------|------|
 | 988   | the  |
@@ -37,8 +38,6 @@ The output I got from entering 5 words was:
 | 387   | in   |
 | 378   |HAMLET|
 | 356   | you  |
-
-
 
 the	986
 and	685
