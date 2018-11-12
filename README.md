@@ -24,9 +24,7 @@ scala> topWordCount.take(10).foreach(x=>println(x))
 ```
 
 ## Project Output
-The and 'it' was used most frequently. The output I got from entering 5 words was:
-
-
+The output I got from entering 5 words was:
 |1.3068| Then   |
 
 |2.9025| Music  |
@@ -37,3 +35,6 @@ The and 'it' was used most frequently. The output I got from entering 5 words wa
 
 |5.3528| know   |
 
+'The' and 'it' was used most frequently.
+
+![chart](URL)
