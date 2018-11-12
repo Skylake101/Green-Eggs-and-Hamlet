@@ -34,4 +34,4 @@ I	513
 
 'The' was used 986 times making it the most frequent.
 
-![chart](URL)
+![chart](https://github.com/Skylake101/SparkPro5/blob/master/FrequencyTable.jpg)
