@@ -27,13 +27,13 @@ scala> topWordCount.take(10).foreach(x=>println(x))
 The and 'it' was used most frequently. The output I got from entering 5 words was:
 
 
-|1.3068, Then   |
+|1.3068| Then   |
 
-|2.9025, Music  |
+|2.9025| Music  |
 
-|3.2356, We     |
+|3.2356| We     |
 
-|4.9355, should |
+|4.9355| should |
 
-|5.3528, know   |
+|5.3528| know   |
 
