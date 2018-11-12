@@ -26,24 +26,13 @@ scala> topWordCount.take(10).foreach(x=>println(x))
 ## Project Output
 The output I got from entering 5 words was:
 
-| Count | Word |
-|-------|------|
-| 988   | the  |
-| 693   | and  |
-| 621   | of   |
-| 604   | to   |
-| 513   | I    |
-| 450   | a    |
-| 441   | my   |
-| 387   | in   |
-| 378   |HAMLET|
-| 356   | you  |
-
-the	986
-and	685
-of	621
-to	604
-I	513
+|Frequency| Item |
+|---------|------|
+| 986     | the  |
+| 685     | and  |
+| 621     | of   |
+| 604     | to   |
+| 513     | I    |
 
 'The' was used 986 times making it the most frequent.
 
