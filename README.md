@@ -28,7 +28,12 @@ The and 'it' was used most frequently. The output I got from entering 5 words wa
 
 
 |1.3068, Then   |
+
 |2.9025, Music  |
+
 |3.2356, We     |
+
 |4.9355, should |
+
 |5.3528, know   |
+
