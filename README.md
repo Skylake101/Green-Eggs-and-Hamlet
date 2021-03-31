@@ -1,4 +1,4 @@
-# SparkPro5
+# Green Eggs and Hamlet
 
 ## About Me & Objective
 This project uses a combination of Spark and Scala to process hamlet and identfify key words from "Hamlet"
