@@ -1,7 +1,7 @@
 # SparkPro5
 
 ## About Me & Objective
-I'm Luke Carlson, I am a Junior from Northwest Missouri. This assignment is helping us learn how to use Spark and Scala. I also like to spend a lot of time with my fridge door open, looking inside of my fridge without actually getting anything.
+This project uses a combination of Spark and Scala to process hamlet and identfify key words from "Hamlet"
 
 ## My raw data with a link to original source
 I made my green eggs and Hamlet document using Hamlet.:
