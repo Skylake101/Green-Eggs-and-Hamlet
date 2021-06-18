@@ -1,10 +1,10 @@
 # Green Eggs and Hamlet
 
 ## Project Goal
-This project uses a combination of Spark and Scala to process hamlet and identfify key words from "Hamlet"
+This project uses a combination of Spark and Scala to process hamlet and identfify key words from a .txt document containing all of Hamlet
 
 ## My raw data with a link to original source
-I made my green eggs and Hamlet document using Hamlet.:
+I made my green eggs and Hamlet document using this website:
 - [HAMLET](http://shakespeare.mit.edu/hamlet/full.html "Website for Hamlet")
 
 ## Commands I used for Scala
