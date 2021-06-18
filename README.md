@@ -1,7 +1,7 @@
 # Green Eggs and Hamlet
 
 ## Project Goal
-This project uses a combination of Spark and Scala to process hamlet and identfify key words from a .txt document containing all of Hamlet
+This project uses a combination of Spark and Scala to process words from any 'text' entry. For example: Green Eggs and Ham or Hamlet. It's currently setup to use Hamlet
 
 ## My raw data with a link to original source
 I made my green eggs and Hamlet document using this website:
