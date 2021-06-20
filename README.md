@@ -1,10 +1,12 @@
 # Green Eggs and Hamlet
 
-## Project Goal
-This project uses a combination of Spark and Scala to process words from any 'text' entry. For example: Green Eggs and Ham or Hamlet. It's currently setup to use Hamlet
+## Project Purpose
+This project utilizes Spark and Scala to process Big Data from a file and filter relevant information. A great way to test it is to use an entire book, for example: Green Eggs and Ham or Hamlet. 
 
-## My raw data with a link to original source
-I made my green eggs and Hamlet document using this website:
+Once you've selected your data source you can locate key variables. It's currently setup to read Hamlet and figure out which words are used the most frequently
+
+## Raw Data source:
+The green eggs and Hamlet document was cached from this website:
 - [HAMLET](http://shakespeare.mit.edu/hamlet/full.html "Website for Hamlet")
 
 ## Commands I used for Scala
