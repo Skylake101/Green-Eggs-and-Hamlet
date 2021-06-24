@@ -1,7 +1,7 @@
 # Green Eggs and Hamlet
 
 ## Project Purpose
-This project is a quick guide on how to use Spark and Scala to process Big Data from a file and filter relevant information. A great way to test it is to use an entire book, for example: Green Eggs and Ham or Hamlet. 
+This project is a quick guide on how to use Spark Scala to process Big Data from a file and filter relevant information. A great way to test it is to use an entire book, for example: Green Eggs and Ham or Hamlet. 
 
 Once you've selected your data source you can locate key variables. It's currently setup to read Hamlet and figure out which words are used the most frequently
 
